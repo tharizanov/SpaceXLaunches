@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_dimen">0dp</dimen>
+    <dimen name="launch_item_internal_margin">16dp</dimen>
+    <dimen name="launch_item_image_width">100dp</dimen>
+    <dimen name="launch_item_image_height">100dp</dimen>
+</resources>
